@@ -1,0 +1,54 @@
+This is BibTeX, Version 0.99d (TeX Live 2020)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: template.aux
+The style file: unsrt.bst
+Database file #1: references.bib
+Repeated entry---line 427 of file references.bib
+ : @inproceedings{han2015learning
+ :                               ,
+I'm skipping whatever remains of this entry
+Warning--empty journal in Ye2018Rethinking
+Warning--empty journal in cifar10
+Warning--empty year in cifar10
+You've used 45 entries,
+            1791 wiz_defined-function locations,
+            662 strings with 11888 characters,
+and the built_in function-call counts, 13725 in all, are:
+= -- 1241
+> -- 604
+< -- 24
++ -- 217
+- -- 172
+* -- 791
+:= -- 1938
+add.period$ -- 139
+call.type$ -- 45
+change.case$ -- 45
+chr.to.int$ -- 0
+cite$ -- 48
+duplicate$ -- 718
+empty$ -- 1302
+format.name$ -- 172
+if$ -- 3252
+int.to.chr$ -- 0
+int.to.str$ -- 45
+missing$ -- 45
+newline$ -- 227
+num.names$ -- 45
+pop$ -- 216
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 494
+stack$ -- 0
+substring$ -- 951
+swap$ -- 321
+text.length$ -- 24
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 3
+while$ -- 119
+width$ -- 47
+write$ -- 479
+(There was 1 error message)
